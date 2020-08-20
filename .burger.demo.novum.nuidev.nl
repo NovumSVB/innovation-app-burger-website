@@ -1,0 +1,6 @@
+SYSTEM_ID="novum.burger"
+IS_DEVEL="1"
+SYSTEM_ROOT="/home/dev_novum_burger/platform/system"
+DB_USER="dev_novum_burger"
+DB_HOST="localhost"
+DB_PASS="A!!@!2884e2303c02a0c"
