@@ -1,0 +1,18 @@
+{
+    "config_dir": "novum.burger",
+    "namespace": "NovumBurger",
+    "site": {
+        "dev": {
+            "protocol": "http",
+            "domain": "burger.demo.novum.nuidev.nl"
+        },
+        "test": {
+            "protocol": "https",
+            "domain": "burger.test.demo.novum.nu"
+        },
+        "prod": {
+            "protocol": "https",
+            "domain": "burger.demo.novum.nu"
+        }
+    }
+}
