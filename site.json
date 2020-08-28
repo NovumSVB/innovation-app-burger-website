@@ -14,5 +14,6 @@
             "protocol": "https",
             "domain": "burger.demo.novum.nu"
         }
-    }
+    },
+    "server_admin": "anton@novum.nu"
 }
