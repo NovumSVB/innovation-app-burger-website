@@ -4,7 +4,7 @@
     "site": {
         "dev": {
             "protocol": "http",
-            "domain": "burger.demo.novum.nuidev.nl"
+            "domain": "burger.innovatieapp.nl"
         },
         "test": {
             "protocol": "https",
