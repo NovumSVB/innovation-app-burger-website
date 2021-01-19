@@ -20,7 +20,7 @@
     "require": {
         "hurah/hurah-installer": "*",
         "novum/domain-burger": "dev-master",
-        "PHP": ">=7.3",
+        "PHP": ">=7.3 || 8.0.*",
         "novum/innovation-app-core": "*"
     },
     "authors": [
